@@ -1,6 +1,6 @@
 {
-    "short_name": "create-react-pwa",
-    "name": "Tic-Tac-Toe",
+    "short_name": "tic-tac-toe",
+    "name": "tic-tac-toe",
     "icons": [
         {
             "src": "favicon.ico",
