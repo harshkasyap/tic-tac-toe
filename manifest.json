@@ -1,6 +1,6 @@
 {
     "short_name": "create-react-pwa",
-    "name": "Create React PWApp",
+    "name": "Tic-Tac-Toe",
     "icons": [
         {
             "src": "favicon.ico",
